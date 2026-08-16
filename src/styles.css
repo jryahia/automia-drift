@@ -86,3 +86,4 @@ nav{display:flex;gap:30px;align-items:center;font-family:var(--font);font-size:1
 .hl1{top:6%;font-family:var(--font);font-weight:700;font-size:clamp(90px,18vw,220px);color:transparent;-webkit-text-stroke:1px rgba(244,246,251,.15);left:4%}
 .hl2{top:20%;right:8%;font-size:clamp(40px,7vw,90px);color:transparent;-webkit-text-stroke:1px rgba(255,92,57,.3);font-family:var(--font);font-weight:700}
 .hl3{bottom:8%;left:12%;width:340px;height:340px;border-radius:50%;background:radial-gradient(circle,#ff5c39,transparent 70%);filter:blur(16px);opacity:.5}
+.wm{margin-right:-.25em}
